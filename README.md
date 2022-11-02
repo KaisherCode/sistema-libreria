@@ -1,5 +1,5 @@
 # Sistema-Libreria
-¡Hola!, Esta esta es un sitio web libreria desarrollada con python y django + CRUD + MySQL. Puedes agregar, editar, consultar y eliminarla la lista de libros de la bibliteca.
+¡Hola!, Esta es un sitio web libreria desarrollada con python y django + CRUD + MySQL. Puedes agregar, editar, consultar y eliminarla la lista de libros de la bibliteca.
 Espero sirva de apoyo para la comunidad.
 
 # Herramientas a instalar
